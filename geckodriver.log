@@ -41,3 +41,14 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yt/l/en_GB/LxDY
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.facebook.com"
 1648113324693	Marionette	INFO	Stopped listening on port 10282
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649935185251	geckodriver	INFO	Listening on 127.0.0.1:7451
+1649935188205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7452" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRNAa45"
+1649935188918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRNAa45\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7452/devtools/browser/6a45af8e-863b-431b-9011-c3695a26439c
+1649935191034	Marionette	INFO	Listening on port 7457
+1649935191392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1649935195478	Marionette	INFO	Stopped listening on port 7457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

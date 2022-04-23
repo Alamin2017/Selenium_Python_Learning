@@ -2,7 +2,7 @@ from selenium import webdriver
 
 from selenium import webdriver
 
-browser = "firefox"
+browser = "edge"
 
 if browser == "chrome":
     driver = webdriver.Chrome(executable_path='D:\Soft\Python_Selenium\Browser\chromedriver.exe')

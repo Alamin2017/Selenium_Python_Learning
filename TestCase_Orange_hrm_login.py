@@ -4,7 +4,7 @@ import HtmlTestRunner
 from selenium.webdriver.common.by import By
 
 class OrangeHRMTest(unittest.TestCase):
-
+    #python -m pytest
     @classmethod
     def setUpClass(cls):
         cls.driver = webdriver.Chrome(executable_path="D:\Soft\Python_Selenium\Browser\chromedriver.exe")
